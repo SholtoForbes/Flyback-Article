@@ -1,0 +1,32 @@
+\begin{thebibliography}{3}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{{Office of Commercial Space Transportation (AST) and the Commercial
+  Space Transportation Advisory Committee
+  (COMSTAC)}(2015)}]{Faa&Ast&Comstac2015}
+{Office of Commercial Space Transportation (AST) and the Commercial Space
+  Transportation Advisory Committee (COMSTAC)}, \emph{{2015 Commercial Space
+  Transportation Forecasts}}, May, Office of Commercial Space Transportation,
+  Washington, DC, 2015.
+
+\bibitem[{Crisp et~al.(2015)Crisp, Smith, and Hollingsworth}]{Crisp2015}
+Crisp, N.~H., Smith, K., and Hollingsworth, P., \enquote{{Launch and deployment
+  of distributed small satellite systems},} \emph{Acta Astronautica}, Vol. 114,
+  2015, pp. 65--78.
+\newblock \doi{10.1016/j.actaastro.2015.04.015},
+  \urlprefix\url{http://dx.doi.org/10.1016/j.actaastro.2015.04.015}.
+
+\bibitem[{Josselyn and Ross(2002)}]{Josselyn2002a}
+Josselyn, S., and Ross, I.~M., \enquote{{Rapid Verification Method for the
+  Trajectory Optimization of Reentry Vehicles},} \emph{Notes}, Vol.~26, No.~3,
+  2002, pp. 505--508.
+\newblock \doi{10.2514/2.5074}.
+
+\end{thebibliography}
