@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  23 NOV 2017 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  29 NOV 2017 11:29
 entering extended mode
 **./main.tex
 (main.tex
@@ -1467,67 +1467,102 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@cols=\count312
 \TX@ftn=\toks31
 )
-LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 28
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count313
+\c@subtable=\count314
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count315
+\float@exts=\toks32
+\float@box=\box59
+\@float@everytoks=\toks33
+\@floatcapt=\box60
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count316
+\U@D=\dimen271
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 40
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\t1ntxtlf.fd"
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 28.
+(Font)              scaled to size 10.0pt on input line 40.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 28.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 28
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 40
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd"
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 28.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 40.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 28.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 28
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 40
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmsntxsy.fd"
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 2
-8.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 4
+0.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmxntxexx.fd"
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Info: Redefining \microtypecontext on input line 28.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 40.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1541,8 +1576,8 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-\c@mv@tabular=\count313
-\c@mv@boldtabular=\count314
+\c@mv@tabular=\count317
+\c@mv@boldtabular=\count318
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1579,14 +1614,15 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 28.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1594,11 +1630,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count315
+\c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -1607,17 +1643,17 @@ LaTeX Info: Redefining \nameref on input line 28.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
-\scratchdimen=\dimen271
-\scratchbox=\box60
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count319
-\MPscratchDim=\dimen272
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count320
+\scratchdimen=\dimen272
+\scratchbox=\box62
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen273
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks35
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1634,7 +1670,7 @@ G,.JBIG2,.JB2,.eps]
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `newtx' on line 28.
+. Activating mapping `newtx' on line 40.
 .................................................
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
@@ -1644,132 +1680,132 @@ Dictionary: translator-basic-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 )
-\c__siunitx_mathsf_int=\count322
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2
-8.
+\c__siunitx_mathsf_int=\count326
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
+0.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ot1ntxtlf.fd"
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 28.
+(Font)              scaled to size 10.0pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 28.
+(Font)              scaled to size 7.3pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 28.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 28.
+(Font)              scaled to size 5.5pt on input line 40.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 40.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxmia.fd"
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 28.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 40.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsym.fd"
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 28.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 40.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsyc.fd"
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 28.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tex-gyre\t1qhv.fd"
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 28.
+(Font)              scaled to size 8.99994pt on input line 40.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 6.56995pt on input line 28.
+(Font)              scaled to size 6.56995pt on input line 40.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 4.94997pt on input line 28.
-\c__siunitx_mathtt_int=\count323
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 28.
+(Font)              scaled to size 4.94997pt on input line 40.
+\c__siunitx_mathtt_int=\count327
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 40.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\t1ntxtt.fd"
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 28.
+(Font)              scaled to size 10.0pt on input line 40.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 28.
+(Font)              scaled to size 7.3pt on input line 40.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 28.
+(Font)              scaled to size 5.5pt on input line 40.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 31.
+(Font)              scaled to size 17.28pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 31.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 31.
+(Font)              scaled to size 17.28pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 31.
-LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 3
-1.
+(Font)              scaled to size 7.3pt on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 4
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ts1ntxtlf.fd"
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 31.
+(Font)              scaled to size 7.3pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 31.
+(Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 31.
+(Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 31.
+(Font)              scaled to size 6.2pt on input line 43.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 31.
+(Font)              scaled to size 7.19995pt on input line 43.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 31.
+(Font)              scaled to size 5.57996pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 31.
+(Font)              scaled to size 8.0pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 31.
+(Font)              scaled to size 6.2pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 31.
+(Font)              scaled to size 6.2pt on input line 43.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 31.
+(Font)              scaled to size 6.2pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 31.
+(Font)              scaled to size 10.0pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 32.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 32.
+(Font)              scaled to size 10.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 36.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
-
-<Figures/NoInternal.png, id=47, 1166.10657pt x 504.38437pt>
-File: Figures/NoInternal.png Graphic file (type png)
-
-<use Figures/NoInternal.png>
-Package pdftex.def Info: Figures/NoInternal.png used on input line 71.
-(pdftex.def)             Requested size: 328.82707pt x 142.22717pt.
-
-<Figures/INTERNALS.jpg, id=49, 1412.27625pt x 245.41687pt>
-File: Figures/INTERNALS.jpg Graphic file (type jpg)
-
-<use Figures/INTERNALS.jpg>
-Package pdftex.def Info: Figures/INTERNALS.jpg used on input line 77.
-(pdftex.def)             Requested size: 328.82707pt x 57.1412pt.
+(Font)              scaled to size 12.0pt on input line 48.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Figures/NoInternal.png, id=88, 1166.10657pt x 504.38437pt>
+File: Figures/NoInternal.png Graphic file (type png)
+
+<use Figures/NoInternal.png>
+Package pdftex.def Info: Figures/NoInternal.png used on input line 83.
+(pdftex.def)             Requested size: 328.82707pt x 142.22717pt.
+
+<Figures/INTERNALS.jpg, id=90, 1412.27625pt x 245.41687pt>
+File: Figures/INTERNALS.jpg Graphic file (type jpg)
+
+<use Figures/INTERNALS.jpg>
+Package pdftex.def Info: Figures/INTERNALS.jpg used on input line 89.
+(pdftex.def)             Requested size: 328.82707pt x 57.1412pt.
+ [2 <./Figures/NoInternal.png> <./Figures/INTERNALS.jpg>]
 Package epstopdf Info: Source file: <Figures/Traj.eps>
 (epstopdf)                    date: 2017-10-26 11:33:25
 (epstopdf)                    size: 87811 bytes
@@ -1778,37 +1814,55 @@ Package epstopdf Info: Source file: <Figures/Traj.eps>
 (epstopdf)                    size: 33680 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Traj-eps-converted-
 to.pdf Figures/Traj.eps>
-(epstopdf)             \includegraphics on input line 89.
+(epstopdf)             \includegraphics on input line 104.
 Package epstopdf Info: Output file is already uptodate.
- <Figures/Traj-eps-converted-to.pdf, id=73, 741.77126pt x 325.215pt>
+ <Figures/Traj-eps-converted-to.pdf, id=105, 741.77126pt x 325.215pt>
 File: Figures/Traj-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj-eps-converted-to.pdf used on input line 8
-9.
+Package pdftex.def Info: Figures/Traj-eps-converted-to.pdf used on input line 1
+04.
 (pdftex.def)             Requested size: 422.77664pt x 185.35959pt.
- [2 <./Figures/NoInternal.png> <./Figures/INTERNALS.jpg>] [3 <./Figures/Traj-ep
-s-converted-to.pdf>]
-<Figures/M7AoA6.png, id=120, 596.98032pt x 274.77657pt>
+ [3 <./Figures/Traj-eps-converted-to.pdf>] [4] <Figures/M7AoA6.png, id=149, 596
+.98032pt x 274.77657pt>
 File: Figures/M7AoA6.png Graphic file (type png)
 
 <use Figures/M7AoA6.png>
-Package pdftex.def Info: Figures/M7AoA6.png used on input line 139.
+Package pdftex.def Info: Figures/M7AoA6.png used on input line 155.
 (pdftex.def)             Requested size: 328.82707pt x 151.35397pt.
- <Figures/Cl.png, id=121, 421.575pt x 316.18124pt>
+ <Figures/Cl.png, id=150, 421.575pt x 316.18124pt>
 File: Figures/Cl.png Graphic file (type png)
 
 <use Figures/Cl.png>
-Package pdftex.def Info: Figures/Cl.png used on input line 146.
+Package pdftex.def Info: Figures/Cl.png used on input line 162.
 (pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- <Figures/Cd.png, id=122, 421.575pt x 316.18124pt>
+ <Figures/Cd.png, id=151, 421.575pt x 316.18124pt>
 File: Figures/Cd.png Graphic file (type png)
 
 <use Figures/Cd.png>
-Package pdftex.def Info: Figures/Cd.png used on input line 152.
+Package pdftex.def Info: Figures/Cd.png used on input line 168.
 (pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- [4 <./Figures/M7AoA6.png> <./Figures/Cl.png (PNG copy)>]
-[5 <./Figures/Cd.png (PNG copy)>]
+ <Figures/LD.png, id=152, 421.575pt x 316.18124pt>
+File: Figures/LD.png Graphic file (type png)
+
+<use Figures/LD.png>
+Package pdftex.def Info: Figures/LD.png used on input line 174.
+(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
+ [5 <./Figures/M7AoA6.png>] [6 <./Figures/Cl.png (PNG copy)> <./Figures/Cd.png 
+(PNG copy)>] [7 <./Figures/LD.png (PNG copy)>]
+<Figures/qlimited50kpa.png, id=185, 612.78937pt x 324.46219pt>
+File: Figures/qlimited50kpa.png Graphic file (type png)
+
+<use Figures/qlimited50kpa.png>
+Package pdftex.def Info: Figures/qlimited50kpa.png used on input line 227.
+(pdftex.def)             Requested size: 281.85587pt x 149.23955pt.
+ [8 <./Figures/qlimited50kpa.png>]
+<Figures/lon-lat.png, id=196, 421.575pt x 316.18124pt>
+File: Figures/lon-lat.png Graphic file (type png)
+
+<use Figures/lon-lat.png>
+Package pdftex.def Info: Figures/lon-lat.png used on input line 243.
+(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
 Package epstopdf Info: Source file: <Figures/Traj1.eps>
 (epstopdf)                    date: 2017-11-22 07:32:16
 (epstopdf)                    size: 71720 bytes
@@ -1817,16 +1871,20 @@ Package epstopdf Info: Source file: <Figures/Traj1.eps>
 (epstopdf)                    size: 23530 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Traj1-eps-converted
 -to.pdf Figures/Traj1.eps>
-(epstopdf)             \includegraphics on input line 212.
+(epstopdf)             \includegraphics on input line 250.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Traj1-eps-converted-to.pdf, id=154, 999.735pt x 337.26pt>
+<Figures/Traj1-eps-converted-to.pdf, id=197, 999.735pt x 337.26pt>
 File: Figures/Traj1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj1-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Traj1-eps-converted-to.pdf used on input line 
-212.
+250.
 (pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package epstopdf Info: Source file: <Figures/Traj2.eps>
 (epstopdf)                    date: 2017-11-22 07:33:08
 (epstopdf)                    size: 132170 bytes
@@ -1835,16 +1893,19 @@ Package epstopdf Info: Source file: <Figures/Traj2.eps>
 (epstopdf)                    size: 20163 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Traj2-eps-converted
 -to.pdf Figures/Traj2.eps>
-(epstopdf)             \includegraphics on input line 218.
+(epstopdf)             \includegraphics on input line 256.
 Package epstopdf Info: Output file is already uptodate.
-
-<Figures/Traj2-eps-converted-to.pdf, id=155, 999.735pt x 337.26pt>
+<Figures/Traj2-eps-converted-to.pdf, id=198, 999.735pt x 337.26pt>
 File: Figures/Traj2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj2-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Traj2-eps-converted-to.pdf used on input line 
-218.
+256.
 (pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 Package epstopdf Info: Source file: <Figures/Traj3.eps>
 (epstopdf)                    date: 2017-11-22 07:32:34
 (epstopdf)                    size: 69984 bytes
@@ -1853,65 +1914,65 @@ Package epstopdf Info: Source file: <Figures/Traj3.eps>
 (epstopdf)                    size: 18657 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Traj3-eps-converted
 -to.pdf Figures/Traj3.eps>
-(epstopdf)             \includegraphics on input line 224.
+(epstopdf)             \includegraphics on input line 262.
 Package epstopdf Info: Output file is already uptodate.
-
-<Figures/Traj3-eps-converted-to.pdf, id=156, 999.735pt x 337.26pt>
+<Figures/Traj3-eps-converted-to.pdf, id=199, 999.735pt x 337.26pt>
 File: Figures/Traj3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj3-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Traj3-eps-converted-to.pdf used on input line 
-224.
+262.
 (pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
-Package epstopdf Info: Source file: <Figures/lon-lat.eps>
-(epstopdf)                    date: 2017-11-22 07:33:33
-(epstopdf)                    size: 113749 bytes
-(epstopdf)             Output file: <Figures/lon-lat-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:05
-(epstopdf)                    size: 13472 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/lon-lat-eps-convert
-ed-to.pdf Figures/lon-lat.eps>
-(epstopdf)             \includegraphics on input line 231.
-Package epstopdf Info: Output file is already uptodate.
 
-<Figures/lon-lat-eps-converted-to.pdf, id=157, 421.575pt x 316.18124pt>
-File: Figures/lon-lat-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Figures/lon-lat-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/lon-lat-eps-converted-to.pdf used on input lin
-e 231.
-(pdftex.def)             Requested size: 234.8775pt x 176.1581pt.
- [6 <./Figures/Traj1-eps-converted-to.pdf> <./Figures/Traj2-eps-converted-to.pd
-f>] [7 <./Figures/Traj3-eps-converted-to.pdf> <./Figures/lon-lat-eps-converted-
-to.pdf>] (main.bbl
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./Figures/lon-lat.png (PNG copy)>] [10 <./Figures/Traj1-eps-converted-to.pd
+f> <./Figures/Traj2-eps-converted-to.pdf>] [11 <./Figures/Traj3-eps-converted-t
+o.pdf>] <Figures/CdVariation.png, id=242, 999.735pt x 337.26pt>
+File: Figures/CdVariation.png Graphic file (type png)
+
+<use Figures/CdVariation.png>
+Package pdftex.def Info: Figures/CdVariation.png used on input line 311.
+(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
+
+<Figures/IspVariation.png, id=243, 999.735pt x 337.26pt>
+File: Figures/IspVariation.png Graphic file (type png)
+
+<use Figures/IspVariation.png>
+Package pdftex.def Info: Figures/IspVariation.png used on input line 318.
+(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
+ [12 <./Figures/CdVariation.png (PNG copy)>]
+(main.bbl
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 9.0pt on input line 16.
+ [13 <./Figures/IspVariation.png (PNG copy)>]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 28.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 28.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 9.0pt on input line 28.
- [8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
+ [14])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 88392ED37C0A4A2C1BE1C8DB51558E58;501.
+(rerunfilecheck)             Checksum: 18362C10E27AA1AB2F22F8230270146D;920.
  ) 
 Here is how much of TeX's memory you used:
- 24624 strings out of 493323
- 452168 string characters out of 3139058
- 545327 words of memory out of 3000000
- 27620 multiletter control sequences out of 15000+200000
- 621416 words of font info for 190 fonts, out of 3000000 for 9000
+ 25201 strings out of 493323
+ 460268 string characters out of 3139058
+ 563927 words of memory out of 3000000
+ 28141 multiletter control sequences out of 15000+200000
+ 621975 words of font info for 196 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,94p,10368b,901s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,8n,94p,10368b,931s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Progra
 m Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/
@@ -1924,9 +1985,9 @@ c/txfonts/rtxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
 r.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/t1xtt.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 554322 bytes).
+Output written on main.pdf (15 pages, 754228 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 34939 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 35007 words of extra memory for PDF output out of 35830 (max. 10000000)
 
