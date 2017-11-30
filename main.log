@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  29 NOV 2017 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  30 NOV 2017 11:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -1792,14 +1792,14 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Figures/NoInternal.png, id=88, 1166.10657pt x 504.38437pt>
+<Figures/NoInternal.png, id=89, 1166.10657pt x 504.38437pt>
 File: Figures/NoInternal.png Graphic file (type png)
 
 <use Figures/NoInternal.png>
 Package pdftex.def Info: Figures/NoInternal.png used on input line 83.
 (pdftex.def)             Requested size: 328.82707pt x 142.22717pt.
 
-<Figures/INTERNALS.jpg, id=90, 1412.27625pt x 245.41687pt>
+<Figures/INTERNALS.jpg, id=91, 1412.27625pt x 245.41687pt>
 File: Figures/INTERNALS.jpg Graphic file (type jpg)
 
 <use Figures/INTERNALS.jpg>
@@ -1816,33 +1816,33 @@ Package epstopdf Info: Source file: <Figures/Traj.eps>
 to.pdf Figures/Traj.eps>
 (epstopdf)             \includegraphics on input line 104.
 Package epstopdf Info: Output file is already uptodate.
- <Figures/Traj-eps-converted-to.pdf, id=105, 741.77126pt x 325.215pt>
+ <Figures/Traj-eps-converted-to.pdf, id=107, 741.77126pt x 325.215pt>
 File: Figures/Traj-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Traj-eps-converted-to.pdf used on input line 1
 04.
 (pdftex.def)             Requested size: 422.77664pt x 185.35959pt.
- [3 <./Figures/Traj-eps-converted-to.pdf>] [4] <Figures/M7AoA6.png, id=149, 596
+ [3 <./Figures/Traj-eps-converted-to.pdf>] [4] <Figures/M7AoA6.png, id=151, 596
 .98032pt x 274.77657pt>
 File: Figures/M7AoA6.png Graphic file (type png)
 
 <use Figures/M7AoA6.png>
 Package pdftex.def Info: Figures/M7AoA6.png used on input line 155.
 (pdftex.def)             Requested size: 328.82707pt x 151.35397pt.
- <Figures/Cl.png, id=150, 421.575pt x 316.18124pt>
+ <Figures/Cl.png, id=152, 421.575pt x 316.18124pt>
 File: Figures/Cl.png Graphic file (type png)
 
 <use Figures/Cl.png>
 Package pdftex.def Info: Figures/Cl.png used on input line 162.
 (pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- <Figures/Cd.png, id=151, 421.575pt x 316.18124pt>
+ <Figures/Cd.png, id=153, 421.575pt x 316.18124pt>
 File: Figures/Cd.png Graphic file (type png)
 
 <use Figures/Cd.png>
 Package pdftex.def Info: Figures/Cd.png used on input line 168.
 (pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- <Figures/LD.png, id=152, 421.575pt x 316.18124pt>
+ <Figures/LD.png, id=154, 421.575pt x 316.18124pt>
 File: Figures/LD.png Graphic file (type png)
 
 <use Figures/LD.png>
@@ -1850,14 +1850,14 @@ Package pdftex.def Info: Figures/LD.png used on input line 174.
 (pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
  [5 <./Figures/M7AoA6.png>] [6 <./Figures/Cl.png (PNG copy)> <./Figures/Cd.png 
 (PNG copy)>] [7 <./Figures/LD.png (PNG copy)>]
-<Figures/qlimited50kpa.png, id=185, 612.78937pt x 324.46219pt>
+<Figures/qlimited50kpa.png, id=189, 612.78937pt x 324.46219pt>
 File: Figures/qlimited50kpa.png Graphic file (type png)
 
 <use Figures/qlimited50kpa.png>
 Package pdftex.def Info: Figures/qlimited50kpa.png used on input line 227.
 (pdftex.def)             Requested size: 281.85587pt x 149.23955pt.
  [8 <./Figures/qlimited50kpa.png>]
-<Figures/lon-lat.png, id=196, 421.575pt x 316.18124pt>
+<Figures/lon-lat.png, id=198, 421.575pt x 316.18124pt>
 File: Figures/lon-lat.png Graphic file (type png)
 
 <use Figures/lon-lat.png>
@@ -1874,7 +1874,7 @@ Package epstopdf Info: Source file: <Figures/Traj1.eps>
 (epstopdf)             \includegraphics on input line 250.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Traj1-eps-converted-to.pdf, id=197, 999.735pt x 337.26pt>
+<Figures/Traj1-eps-converted-to.pdf, id=199, 999.735pt x 337.26pt>
 File: Figures/Traj1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj1-eps-converted-to.pdf>
@@ -1895,7 +1895,7 @@ Package epstopdf Info: Source file: <Figures/Traj2.eps>
 -to.pdf Figures/Traj2.eps>
 (epstopdf)             \includegraphics on input line 256.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/Traj2-eps-converted-to.pdf, id=198, 999.735pt x 337.26pt>
+<Figures/Traj2-eps-converted-to.pdf, id=200, 999.735pt x 337.26pt>
 File: Figures/Traj2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj2-eps-converted-to.pdf>
@@ -1916,7 +1916,7 @@ Package epstopdf Info: Source file: <Figures/Traj3.eps>
 -to.pdf Figures/Traj3.eps>
 (epstopdf)             \includegraphics on input line 262.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/Traj3-eps-converted-to.pdf, id=199, 999.735pt x 337.26pt>
+<Figures/Traj3-eps-converted-to.pdf, id=201, 999.735pt x 337.26pt>
 File: Figures/Traj3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/Traj3-eps-converted-to.pdf>
@@ -1929,14 +1929,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./Figures/lon-lat.png (PNG copy)>] [10 <./Figures/Traj1-eps-converted-to.pd
 f> <./Figures/Traj2-eps-converted-to.pdf>] [11 <./Figures/Traj3-eps-converted-t
-o.pdf>] <Figures/CdVariation.png, id=242, 999.735pt x 337.26pt>
+o.pdf>] <Figures/CdVariation.png, id=244, 999.735pt x 337.26pt>
 File: Figures/CdVariation.png Graphic file (type png)
 
 <use Figures/CdVariation.png>
 Package pdftex.def Info: Figures/CdVariation.png used on input line 311.
 (pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
 
-<Figures/IspVariation.png, id=243, 999.735pt x 337.26pt>
+<Figures/IspVariation.png, id=245, 999.735pt x 337.26pt>
 File: Figures/IspVariation.png Graphic file (type png)
 
 <use Figures/IspVariation.png>
@@ -1966,13 +1966,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 18362C10E27AA1AB2F22F8230270146D;920.
  ) 
 Here is how much of TeX's memory you used:
- 25201 strings out of 493323
- 460268 string characters out of 3139058
- 563927 words of memory out of 3000000
- 28141 multiletter control sequences out of 15000+200000
- 621975 words of font info for 196 fonts, out of 3000000 for 9000
+ 25211 strings out of 493323
+ 460362 string characters out of 3139058
+ 564020 words of memory out of 3000000
+ 28153 multiletter control sequences out of 15000+200000
+ 621717 words of font info for 193 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,94p,10368b,931s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,8n,94p,10368b,939s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Progra
 m Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/
@@ -1985,9 +1985,9 @@ c/txfonts/rtxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
 r.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/t1xtt.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 754228 bytes).
+Output written on main.pdf (15 pages, 756450 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 350 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
  35007 words of extra memory for PDF output out of 35830 (max. 10000000)
 

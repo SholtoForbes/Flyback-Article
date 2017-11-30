@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{28}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -62,14 +62,30 @@ Charania, A.~C., Isakowitz, S., Matsumori, B., Pomerantz, W., Vaughn, M.,
 Gilmour, A., \enquote{{ROCKET STARTUP SHOOTS FOR THE STARS WITH AUD 5 MILLION (
   USD 3 . 7 MILLION ) SERIES A FUNDING},} , 2017.
 
-\bibitem[{Ade(2017)}]{Adeline}
-\enquote{{Airbus Defence and Space’s solution to reuse space Launchers},} ,
-  2017.
-\newblock \urlprefix\url{https://airbusdefenceandspace.com/reuse-launchers/}.
+\bibitem[{Zero2Infinity(2016)}]{Bloostar}
+Zero2Infinity, \enquote{{Bloostar},} , 2016.
+\newblock \urlprefix\url{http://www.zero2infinity.space/bloostar/}.
 
-\bibitem[{Sippel et~al.(2001)Sippel, Klevanski, and Kauffmann}]{Sippel2001}
-Sippel, M., Klevanski, J., and Kauffmann, J., \enquote{{Innovative Method for
-  Return to the Launch Site of Reusable Winged Stages},} 2001.
+\bibitem[{{China Spaceflight}(2017)}]{Linkspace}
+{China Spaceflight}, \enquote{{Linkspace},} , 2017.
+\newblock
+  \urlprefix\url{https://www.chinaspaceflight.com/satellite/Linkspace/Linkspace.html}.
+
+\bibitem[{Orbit(2017)}]{Virgin}
+Orbit, V., \enquote{{LauncherOne},} , 2017.
+\newblock \urlprefix\url{https://virginorbit.com/}.
+
+\bibitem[{Firefly(2017)}]{Firefly}
+Firefly, \enquote{{Firefly},} , 2017.
+\newblock \urlprefix\url{http://www.fireflyspace.com/}.
+
+\bibitem[{Aerospace(2017)}]{Lynx}
+Aerospace, X., \enquote{{Lynx Sppacecraft},} , 2017.
+\newblock \urlprefix\url{https://xcor.com/launch/lynx-spacecraft/}.
+
+\bibitem[{{Rocket Lab}(2016)}]{Electron}
+{Rocket Lab}, \enquote{{Electron},} , 2016.
+\newblock \urlprefix\url{https://www.rocketlabusa.com/electron/}.
 
 \bibitem[{Preller and Smart(2017)}]{Preller2017}
 Preller, D., and Smart, M.~K., \enquote{{Scramjets for Reusable Launch of Small
