@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  5 DEC 2017 07:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  27 DEC 2017 08:15
 entering extended mode
 **./main.tex
 (main.tex
@@ -1874,52 +1874,28 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <9> not available
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 288.
-Package epstopdf Info: Source file: <Figures/Traj2.eps>
-(epstopdf)                    date: 2017-11-22 07:33:08
-(epstopdf)                    size: 132170 bytes
-(epstopdf)             Output file: <Figures/Traj2-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:05
-(epstopdf)                    size: 20163 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj2-eps-converted
--to.pdf Figures/Traj2.eps>
-(epstopdf)             \includegraphics on input line 293.
-Package epstopdf Info: Output file is already uptodate.
+ <Figures/Traj2.png, id=219, 999.735pt x 337.26pt>
+File: Figures/Traj2.png Graphic file (type png)
 
-<Figures/Traj2-eps-converted-to.pdf, id=219, 999.735pt x 337.26pt>
-File: Figures/Traj2-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/Traj2-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj2-eps-converted-to.pdf used on input line 
-293.
+<use Figures/Traj2.png>
+Package pdftex.def Info: Figures/Traj2.png used on input line 293.
 (pdftex.def)             Requested size: 469.75502pt x 158.47104pt.
-Package epstopdf Info: Source file: <Figures/Traj3.eps>
-(epstopdf)                    date: 2017-11-22 07:32:34
-(epstopdf)                    size: 69984 bytes
-(epstopdf)             Output file: <Figures/Traj3-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:05
-(epstopdf)                    size: 18657 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj3-eps-converted
--to.pdf Figures/Traj3.eps>
-(epstopdf)             \includegraphics on input line 300.
-Package epstopdf Info: Output file is already uptodate.
+ <Figures/Traj3.png, id=220, 999.735pt x 337.26pt>
+File: Figures/Traj3.png Graphic file (type png)
 
-<Figures/Traj3-eps-converted-to.pdf, id=220, 999.735pt x 337.26pt>
-File: Figures/Traj3-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/Traj3-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj3-eps-converted-to.pdf used on input line 
-300.
+<use Figures/Traj3.png>
+Package pdftex.def Info: Figures/Traj3.png used on input line 300.
 (pdftex.def)             Requested size: 469.75502pt x 158.47104pt.
  [9 <./Figures/lon-lat.png (PNG copy)>] [10 <./Figures/Traj1.png> <./Figures/Tr
-aj2-eps-converted-to.pdf> <./Figures/Traj3-eps-converted-to.pdf>] [11]
-<Figures/CdVariation.png, id=259, 999.735pt x 337.26pt>
+aj2.png (PNG copy)> <./Figures/Traj3.png (PNG copy)>]
+[11] <Figures/CdVariation.png, id=249, 999.735pt x 337.26pt>
 File: Figures/CdVariation.png Graphic file (type png)
 
 <use Figures/CdVariation.png>
 Package pdftex.def Info: Figures/CdVariation.png used on input line 352.
 (pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
 
-<Figures/IspVariation.png, id=260, 999.735pt x 337.26pt>
+<Figures/IspVariation.png, id=250, 999.735pt x 337.26pt>
 File: Figures/IspVariation.png Graphic file (type png)
 
 <use Figures/IspVariation.png>
@@ -1949,8 +1925,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25243 strings out of 493323
- 460891 string characters out of 3139058
- 565521 words of memory out of 3000000
+ 460770 string characters out of 3139058
+ 565530 words of memory out of 3000000
  28181 multiletter control sequences out of 15000+200000
  624495 words of font info for 194 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1967,9 +1943,9 @@ c/txfonts/rtxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
 r.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/t1xtt.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 801929 bytes).
+Output written on main.pdf (16 pages, 845799 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
+ 365 PDF objects out of 1000 (max. 8388607)
  85 named destinations out of 1000 (max. 500000)
  35519 words of extra memory for PDF output out of 35830 (max. 10000000)
 

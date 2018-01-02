@@ -1,5 +1,5 @@
-\documentclass[conf]{new-aiaa}
-%\documentclass[journal]{new-aiaa} for journal papers
+%\documentclass[conf]{new-aiaa}
+\documentclass[journal]{new-aiaa} %for journal papers
 \usepackage[utf8]{inputenc}
 
 \usepackage{graphicx}
@@ -232,24 +232,32 @@ F_L = \frac{1}{2} \, \rho \, C_L \, v^2 \, A ,
 \end{equation}
 where the coefficient of lift and drag are determined from the aerodynamic database described in Section \ref{sec:aero}.
 
-\subsection{Separation Conditions}
-The separation conditions of the third stage rocket are used as the initial conditions of the return flight optimisation. These separation conditions are obtained through a study on the optimisation of the ascent trajectory of the SPARTAN\cite{ForbesSpyratos2018}, and are shown in Figure \ref*{fig:qlimited50kpa}.
-\begin{figure}[ht]
-	\centering
-	\includegraphics[width=0.6\linewidth]{Figures/qlimited50kpa}
-	\caption{Optimised ascent trajectory of the SPARTAN, calculated using LODESTAR\cite{ForbesSpyratos2018}.}
-	\label{fig:qlimited50kpa}
-\end{figure}
- In this prior work, the third stage is first optimised using LODESTAR, for maximum payload-to-orbit from a variety of possible separation locations. These optimised payload-to-orbit results form a searchable database. The payload-to-orbit for a second stage simulation is then found by interpolation of this database, using the second-third stage separation point. The optimised ascent trajectory for the SPARTAN is calculated to maximise the payload-to-orbit at the second-third stage separation location. From this study, the optimised separation point to maximise payload-to-orbit is; 15.3$^\circ$S,144.9$^\circ$, 34.5km altitude, 2.9$^\circ$ trajectory angle, 2881m/s velocity and 102$^\circ$ heading angle, corresponding to Mach 9.36 flight in a direction away from the launch point, 878km down-range. This separation point is used as the initial condition when analysing the optimised return trajectories in this study.  
+\subsection{Third Stage Optimisation}
+
+-details of third stage
+
+-plot of payloads
 
 
 
-\section{Fly-Back Trajectory Analysis}
-The fly-back of the SPARTAN is optimised using LODESTAR. The fly-back is optimised for minimum fuel usage, with initial conditions constrained to be similar to the intended third stage release point, and end position constrained within 12.7km of the initial launch site, at  15.3$^\circ$S,144.9$^\circ$E\cite{ForbesSpyratos2018}. The margin of 12.7km is allowed so as to not over-constrain the end position within LODESTAR, and it is assumed that the landing strip will not be at the exact location of the launch site. The angle of attack is limited to 10$^\circ$, to ensure vehicle stability. The bank angle is limited to 90$^\circ$ to produce a conservative solution and to limit any possible design complications that may arise from inverted flight. The dynamic pressure is limited to 50kPa, the structural limit of the vehicle. The scramjet engines are limited to only operate above 20kPa dynamic pressure, an estimated lower limit on the operable mass flow rate.
+\section{Trajectory Analysis}
+
+-change this to be focussed on the combined trajectory
+
+
+The trajectory of the SPARTAN is optimised using LODESTAR. 
+The trajectory is optimised for maximum payload-to-orbit, with the fly-back end position constrained to be near to the initial launch site, close to  15.3$^\circ$S,144.9$^\circ$E\cite{ForbesSpyratos2018}. 
+
+A small margin is allowed so as to not over-constrain the end position within LODESTAR, and it is assumed that the landing strip will not be at the exact location of the launch site. The angle of attack is limited to 10$^\circ$, to ensure vehicle stability. The bank angle is limited to 90$^\circ$ to produce a conservative solution and to limit any possible design complications that may arise from inverted flight. The dynamic pressure is limited to 50kPa, the structural limit of the vehicle. The scramjet engines are limited to only operate when the inlet dynamic pressure is above 20kPa, an estimated lower limit on the operable mass flow rate.
 The end of the trajectory is constrained to sub-200m altitude, and a trajectory angle range between -10$^\circ$ and 0$^\circ$ to ensure that the SPARTAN can perform a landing manoeuvre. These constraints ensure that the vehicle is approaching the landing site at the end of the optimised trajectory. The end velocity is only limited to be greater than 0m/s. It can be assumed that the optimal fly-back trajectory minimises end velocity as shown in the optimised trajectory results. 
 It is also assumed that the vehicle is able to carry any necessary fuel in addition to the fuel required during the ascent trajectory, allowing the initial conditions to be kept constant. The potential specific impulse is shown along the trajectory, this is the specific impulse obtainable from the C-REST engines should they be powered on.
 
 \subsection{Optimised Trajectory}
+-Put picture and discussion of full trajectory here
+
+\subsection{Ascent}
+
+\subsection{Fly-Back}
 \begin{figure}[t]
 	\centering
 	\includegraphics[width=0.6\linewidth]{Figures/lon-lat}
@@ -258,28 +266,6 @@ It is also assumed that the vehicle is able to carry any necessary fuel in addit
 	\label{fig:lon-lat}
 \end{figure}  
 
-
-%\begin{figure}[h]
-%	\centering
-%	\includegraphics[width=0.9\linewidth]{Figures/Traj1}
-%	\vspace{-10pt}
-%	\caption{Trajectory data for the fly-back of the SPARTAN vehicle. Optimised for minimum fuel usage using LODESTAR. }
-%	\label{fig:Traj1}
-%\end{figure}
-%\begin{figure}[h]
-%	\centering
-%	\includegraphics[width=0.9\linewidth]{Figures/Traj2}
-%	\vspace{-10pt}
-%	\caption{Aerodynamic and performance data for the optimised fly-back of the SPARTAN vehicle. }
-%	\label{fig:Traj2}
-%\end{figure}
-%\begin{figure}[h]
-%	\centering
-%	\includegraphics[width=0.9\linewidth]{Figures/Traj3}
-%	\vspace{-10pt}
-%	\caption{Control data for the optimised fly-back of the SPARTAN vehicle.}
-%	\label{fig:Traj3}
-%\end{figure}
 
 \begin{figure}
 \begin{subfigure}[b]{\textwidth}
@@ -328,12 +314,13 @@ After the skip phase, as the vehicle is approaching Mach 1, the angle of attack 
 
 
 
- 
-
-
 
 
 \section{Sensitivity Analysis}
+-\textbf{REDO THIS TO BE FROM COMBINED OPTIMISED SEPARATION POINT}
+-Check that fuel-mass optimised flyback is reasonably consistent with combined payload-optimised optimised result
+-Should I even look at 
+
 To investigate the robustness of the fly-back trajectory to vehicle design; the drag coefficient and specific impulse of the SPARTAN are varied by $\pm 10\%$, and the new optimal fly-back trajectories are calculated using LODESTAR. These optimised trajectories, shown in Figures \ref{fig:CdVariation} and \ref{fig:IspVariation}, investigate the effects of potential performance variation caused by changes in the vehicle design.
 The consistency of the trajectory shape indicates that the optimal solution is robust with variation in the aerodynamic parameters and specific impulse of the SPARTAN. The optimised trajectories show clear trends with variation in vehicle parameters.
 
