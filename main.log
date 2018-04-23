@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.8)  30 NOV 2017 11:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.30)  31 JAN 2018 15:14
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 (new-aiaa.cls
 Document Class: new-aiaa 2017/07/31, v1.0
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -397,7 +397,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count90
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -569,7 +569,7 @@ Package: newtxmath 2017/09/11 v1.527
 
 `newtxmath' v1.527, 2017/09/11 Math macros based on txfonts (msharpe)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/11/05 v2.16a AMS math features
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
@@ -996,10 +996,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip60
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -1010,8 +1010,7 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-\Gread@gobject=\count128
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
@@ -1020,22 +1019,22 @@ File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 Package: mhchem 2017/07/24 v4.07 for typesetting chemical formulae
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2017/05/29 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2017/05/29 L3 programming layer (code)
-\c_max_int=\count129
-\l_tmpa_int=\count130
-\l_tmpb_int=\count131
-\g_tmpa_int=\count132
-\g_tmpb_int=\count133
-\g__intarray_font_int=\count134
-\g__prg_map_int=\count135
-\c_log_iow=\count136
-\l_iow_line_count_int=\count137
-\l__iow_line_target_int=\count138
-\l__iow_one_indent_int=\count139
-\l__iow_indent_int=\count140
+Package: expl3 2017/11/14 L3 programming layer (code)
+\c_max_int=\count128
+\l_tmpa_int=\count129
+\l_tmpb_int=\count130
+\g_tmpa_int=\count131
+\g_tmpb_int=\count132
+\g__intarray_font_int=\count133
+\g__prg_map_int=\count134
+\c_log_iow=\count135
+\l_iow_line_count_int=\count136
+\l__iow_line_target_int=\count137
+\l__iow_one_indent_int=\count138
+\l__iow_indent_int=\count139
 \c_zero_dim=\dimen158
 \c_max_dim=\dimen159
 \l_tmpa_dim=\dimen160
@@ -1054,76 +1053,77 @@ Package: expl3 2017/05/29 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count141
-\c__fp_leading_shift_int=\count142
-\c__fp_middle_shift_int=\count143
-\c__fp_trailing_shift_int=\count144
-\c__fp_big_leading_shift_int=\count145
-\c__fp_big_middle_shift_int=\count146
-\c__fp_big_trailing_shift_int=\count147
-\c__fp_Bigg_leading_shift_int=\count148
-\c__fp_Bigg_middle_shift_int=\count149
-\c__fp_Bigg_trailing_shift_int=\count150
-\c__fp_rand_size_int=\count151
-\c__fp_rand_four_int=\count152
-\c__fp_rand_eight_int=\count153
-\l__sort_length_int=\count154
-\l__sort_min_int=\count155
-\l__sort_top_int=\count156
-\l__sort_max_int=\count157
-\l__sort_true_max_int=\count158
-\l__sort_block_int=\count159
-\l__sort_begin_int=\count160
-\l__sort_end_int=\count161
-\l__sort_A_int=\count162
-\l__sort_B_int=\count163
-\l__sort_C_int=\count164
-\l__tl_build_start_index_int=\count165
-\l__tl_build_index_int=\count166
-\l__tl_analysis_normal_int=\count167
-\l__tl_analysis_index_int=\count168
-\l__tl_analysis_nesting_int=\count169
-\l__tl_analysis_type_int=\count170
-\l__regex_internal_a_int=\count171
-\l__regex_internal_b_int=\count172
-\l__regex_internal_c_int=\count173
-\l__regex_balance_int=\count174
-\l__regex_group_level_int=\count175
-\l__regex_mode_int=\count176
-\c__regex_cs_in_class_mode_int=\count177
-\c__regex_cs_mode_int=\count178
-\l__regex_catcodes_int=\count179
-\l__regex_default_catcodes_int=\count180
-\c__regex_catcode_D_int=\count181
-\c__regex_catcode_S_int=\count182
-\c__regex_catcode_L_int=\count183
-\c__regex_catcode_O_int=\count184
-\c__regex_catcode_A_int=\count185
-\c__regex_all_catcodes_int=\count186
-\l__regex_show_lines_int=\count187
-\l__regex_min_state_int=\count188
-\l__regex_max_state_int=\count189
-\l__regex_left_state_int=\count190
-\l__regex_right_state_int=\count191
-\l__regex_capturing_group_int=\count192
-\l__regex_min_pos_int=\count193
-\l__regex_max_pos_int=\count194
-\l__regex_current_pos_int=\count195
-\l__regex_start_pos_int=\count196
-\l__regex_success_pos_int=\count197
-\l__regex_current_char_int=\count198
-\l__regex_current_catcode_int=\count199
-\l__regex_last_char_int=\count266
-\l__regex_case_changed_char_int=\count267
-\l__regex_current_state_int=\count268
-\l__regex_step_int=\count269
-\l__regex_min_active_int=\count270
-\l__regex_max_active_int=\count271
-\l__regex_replacement_csnames_int=\count272
-\l__regex_match_count_int=\count273
-\l__regex_min_submatch_int=\count274
-\l__regex_submatch_int=\count275
-\l__regex_zeroth_submatch_int=\count276
+\l_keys_choice_int=\count140
+\c__fp_leading_shift_int=\count141
+\c__fp_middle_shift_int=\count142
+\c__fp_trailing_shift_int=\count143
+\c__fp_big_leading_shift_int=\count144
+\c__fp_big_middle_shift_int=\count145
+\c__fp_big_trailing_shift_int=\count146
+\c__fp_Bigg_leading_shift_int=\count147
+\c__fp_Bigg_middle_shift_int=\count148
+\c__fp_Bigg_trailing_shift_int=\count149
+\c__fp_rand_size_int=\count150
+\c__fp_rand_four_int=\count151
+\c__fp_rand_eight_int=\count152
+\l__sort_length_int=\count153
+\l__sort_min_int=\count154
+\l__sort_top_int=\count155
+\l__sort_max_int=\count156
+\l__sort_true_max_int=\count157
+\l__sort_block_int=\count158
+\l__sort_begin_int=\count159
+\l__sort_end_int=\count160
+\l__sort_A_int=\count161
+\l__sort_B_int=\count162
+\l__sort_C_int=\count163
+\l__tl_build_start_index_int=\count164
+\l__tl_build_index_int=\count165
+\l__tl_analysis_normal_int=\count166
+\l__tl_analysis_index_int=\count167
+\l__tl_analysis_nesting_int=\count168
+\l__tl_analysis_type_int=\count169
+\l__regex_internal_a_int=\count170
+\l__regex_internal_b_int=\count171
+\l__regex_internal_c_int=\count172
+\l__regex_balance_int=\count173
+\l__regex_group_level_int=\count174
+\l__regex_mode_int=\count175
+\c__regex_cs_in_class_mode_int=\count176
+\c__regex_cs_mode_int=\count177
+\l__regex_catcodes_int=\count178
+\l__regex_default_catcodes_int=\count179
+\c__regex_catcode_D_int=\count180
+\c__regex_catcode_S_int=\count181
+\c__regex_catcode_L_int=\count182
+\c__regex_catcode_O_int=\count183
+\c__regex_catcode_A_int=\count184
+\c__regex_all_catcodes_int=\count185
+\l__regex_show_lines_int=\count186
+\l__regex_min_state_int=\count187
+\l__regex_max_state_int=\count188
+\l__regex_left_state_int=\count189
+\l__regex_right_state_int=\count190
+\l__regex_capturing_group_int=\count191
+\l__regex_min_pos_int=\count192
+\l__regex_max_pos_int=\count193
+\l__regex_curr_pos_int=\count194
+\l__regex_start_pos_int=\count195
+\l__regex_success_pos_int=\count196
+\l__regex_curr_char_int=\count197
+\l__regex_curr_catcode_int=\count198
+\l__regex_last_char_int=\count199
+\l__regex_case_changed_char_int=\count266
+\l__regex_curr_state_int=\count267
+\l__regex_step_int=\count268
+\l__regex_min_active_int=\count269
+\l__regex_max_active_int=\count270
+\l__regex_replacement_csnames_int=\count271
+\l__regex_match_count_int=\count272
+\l__regex_min_submatch_int=\count273
+\l__regex_submatch_int=\count274
+\l__regex_zeroth_submatch_int=\count275
+\g__debug_trace_regex_int=\count276
 \c_empty_box=\box32
 \l_tmpa_box=\box33
 \l_tmpb_box=\box34
@@ -1171,7 +1171,7 @@ File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_tmp_box=\box47
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
-Package: l3keys2e 2017/05/29 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2017/11/14 LaTeX2e option processing using LaTeX3 keys
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
@@ -1188,7 +1188,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
-Package: xparse 2017/05/29 L3 Experimental document command parser
+Package: xparse 2017/11/14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count281
 \g__xparse_grabber_int=\count282
 \l__xparse_m_args_int=\count283
@@ -1268,7 +1268,7 @@ stry (CN)
 \mhchem@option@minustextsidebearingright=\dimen194
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
-Package: siunitx 2017/05/19 v2.7g A comprehensive (SI) units package
+Package: siunitx 2017/11/26 v2.7k A comprehensive (SI) units package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
@@ -1321,117 +1321,117 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7251.
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7250.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7254.
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7253.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7257.
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7256.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7260.
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7259.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7263.
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7262.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7266.
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7265.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7269.
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7268.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7284.
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7283.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7293.
+. Defining command \num with sig. 'om' on line 7292.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7302.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7301.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7311.
+. Defining command \numrange with sig. 'omm' on line 7310.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7323.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7322.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7335.
+. Defining command \SIrange with sig. 'ommm' on line 7334.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7347.
+. Defining command \SI with sig. 'omom' on line 7346.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7350.
+. Defining command \sisetup with sig. 'm' on line 7349.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7365.
+. Defining command \tablenum with sig. 'om' on line 7364.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7377.
+. Defining command \si with sig. 'om' on line 7376.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numInBookmark with sig. 'om' on line 7424.
+. Defining command \numInBookmark with sig. 'om' on line 7423.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrangeInBookmark with sig. 'omm' on line 7426.
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7425.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIInBookmark with sig. 'omom' on line 7428.
+. Defining command \SIInBookmark with sig. 'omom' on line 7427.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlistInBookmark with sig. 'omm' on line 7430.
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7429.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7432.
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7431.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \siInBookmark with sig. 'om' on line 7433.
+. Defining command \siInBookmark with sig. 'om' on line 7432.
 .................................................
 \g__file_internal_ior=\read1
 
@@ -1480,89 +1480,67 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks33
 \@floatcapt=\box60
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/05/19 3.10 The Babel package
-
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
-Language: english 2017/01/24 v3.3q English support from the babel system
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/05/19 3.10 Babel common definitions
-\babel@savecnt=\count316
-\U@D=\dimen271
-)
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-))
-LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 40
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 42
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\t1ntxtlf.fd"
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 42.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 40
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 42.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 42
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd"
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 42.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 40
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 42
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmsntxsy.fd"
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 42.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 4
-0.
+2.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmxntxexx.fd"
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \microtypecontext on input line 40.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 42.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1576,8 +1554,8 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-\c@mv@tabular=\count317
-\c@mv@boldtabular=\count318
+\c@mv@tabular=\count316
+\c@mv@boldtabular=\count317
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1622,7 +1600,7 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1630,11 +1608,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count319
+\c@section@level=\count318
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (main.out) (main.out)
 \@outlinefile=\write3
@@ -1643,16 +1621,16 @@ LaTeX Info: Redefining \nameref on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
-\scratchdimen=\dimen272
+\scratchcounter=\count319
+\scratchdimen=\dimen271
 \scratchbox=\box62
-\nofMPsegments=\count321
-\nofMParguments=\count322
+\nofMPsegments=\count320
+\nofMParguments=\count321
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count323
-\MPscratchDim=\dimen273
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
+\MPscratchCnt=\count322
+\MPscratchDim=\dimen272
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks35
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1663,14 +1641,14 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `newtx' on line 40.
+. Activating mapping `newtx' on line 42.
 .................................................
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
@@ -1678,316 +1656,222 @@ c-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
-File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-\c__siunitx_mathsf_int=\count326
+\c__siunitx_mathsf_int=\count325
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
-0.
+2.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ot1ntxtlf.fd"
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 40.
+(Font)              scaled to size 7.3pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 40.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 40.
+(Font)              scaled to size 5.5pt on input line 42.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 42.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxmia.fd"
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 40.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 42.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsym.fd"
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 40.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 42.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsyc.fd"
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 40.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tex-gyre\t1qhv.fd"
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 40.
+(Font)              scaled to size 8.99994pt on input line 42.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 6.56995pt on input line 40.
+(Font)              scaled to size 6.56995pt on input line 42.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 4.94997pt on input line 40.
-\c__siunitx_mathtt_int=\count327
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 40.
+(Font)              scaled to size 4.94997pt on input line 42.
+\c__siunitx_mathtt_int=\count326
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 42.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\t1ntxtt.fd"
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 42.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 40.
+(Font)              scaled to size 7.3pt on input line 42.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 40.
+(Font)              scaled to size 5.5pt on input line 42.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 43.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 43.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 43.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 43.
+(Font)              scaled to size 7.3pt on input line 45.
 LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 4
-3.
+5.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ts1ntxtlf.fd"
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 43.
+(Font)              scaled to size 7.3pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 43.
+(Font)              scaled to size 8.0pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 43.
+(Font)              scaled to size 8.0pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 43.
+(Font)              scaled to size 6.2pt on input line 45.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 43.
+(Font)              scaled to size 7.19995pt on input line 45.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 43.
+(Font)              scaled to size 5.57996pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 43.
+(Font)              scaled to size 8.0pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 43.
+(Font)              scaled to size 6.2pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 43.
+(Font)              scaled to size 6.2pt on input line 45.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 43.
+(Font)              scaled to size 6.2pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 43.
+(Font)              scaled to size 10.0pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 44.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 44.
+(Font)              scaled to size 10.0pt on input line 46.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 50.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 48.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
- [1
+(Font)              scaled to size 12.0pt on input line 50.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<Figures/NoInternal.png, id=89, 1166.10657pt x 504.38437pt>
+
+Package natbib Warning: Citation `Faa&Ast&Comstac2015' on page 1 undefined on i
+nput line 79.
+
+
+Package natbib Warning: Citation `Maddock2016' on page 1 undefined on input lin
+e 79.
+
+
+Package natbib Warning: Citation `Crisp2015' on page 1 undefined on input line 
+79.
+
+
+Package natbib Warning: Citation `Maddock2017' on page 1 undefined on input lin
+e 79.
+
+
+Package natbib Warning: Citation `Kuhn2017' on page 1 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `DARPA2017' on page 1 undefined on input line 
+79.
+
+
+Package natbib Warning: Citation `charania' on page 1 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `Gilmour' on page 1 undefined on input line 79
+.
+
+
+Package natbib Warning: Citation `Bloostar' on page 1 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `Linkspace' on page 1 undefined on input line 
+79.
+
+
+Package natbib Warning: Citation `Virgin' on page 1 undefined on input line 79.
+
+
+
+Package natbib Warning: Citation `Firefly' on page 1 undefined on input line 79
+.
+
+
+Package natbib Warning: Citation `Lynx' on page 1 undefined on input line 79.
+
+
+Package natbib Warning: Citation `Electron' on page 1 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `Linkspace' on page 1 undefined on input line 
+81.
+
+
+Package natbib Warning: Citation `DARPA2017' on page 1 undefined on input line 
+81.
+
+
+Package natbib Warning: Citation `Lynx' on page 1 undefined on input line 81.
+
+
+Package natbib Warning: Citation `Preller2017' on page 1 undefined on input lin
+e 83.
+
+<Figures/NoInternal.png, id=11, 1166.10657pt x 504.38437pt>
 File: Figures/NoInternal.png Graphic file (type png)
-
 <use Figures/NoInternal.png>
-Package pdftex.def Info: Figures/NoInternal.png used on input line 83.
-(pdftex.def)             Requested size: 328.82707pt x 142.22717pt.
-
-<Figures/INTERNALS.jpg, id=91, 1412.27625pt x 245.41687pt>
+Package pdftex.def Info: Figures/NoInternal.png  used on input line 86. on inpu
+t line 86.
+Package pdftex.def Info: Requested size: 328.82707pt x 142.22717pt on input lin
+e 86.
+<Figures/INTERNALS.jpg, id=13, 1412.27625pt x 245.41687pt>
 File: Figures/INTERNALS.jpg Graphic file (type jpg)
-
 <use Figures/INTERNALS.jpg>
-Package pdftex.def Info: Figures/INTERNALS.jpg used on input line 89.
-(pdftex.def)             Requested size: 328.82707pt x 57.1412pt.
- [2 <./Figures/NoInternal.png> <./Figures/INTERNALS.jpg>]
-Package epstopdf Info: Source file: <Figures/Traj.eps>
-(epstopdf)                    date: 2017-10-26 11:33:25
-(epstopdf)                    size: 87811 bytes
-(epstopdf)             Output file: <Figures/Traj-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-08 09:29:24
-(epstopdf)                    size: 33680 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj-eps-converted-
-to.pdf Figures/Traj.eps>
-(epstopdf)             \includegraphics on input line 104.
-Package epstopdf Info: Output file is already uptodate.
- <Figures/Traj-eps-converted-to.pdf, id=107, 741.77126pt x 325.215pt>
-File: Figures/Traj-eps-converted-to.pdf Graphic file (type pdf)
+Package pdftex.def Info: Figures/INTERNALS.jpg  used on input line 92. on input
+ line 92.
+Package pdftex.def Info: Requested size: 328.82707pt x 57.1412pt on input line 
+92.
 
-<use Figures/Traj-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj-eps-converted-to.pdf used on input line 1
-04.
-(pdftex.def)             Requested size: 422.77664pt x 185.35959pt.
- [3 <./Figures/Traj-eps-converted-to.pdf>] [4] <Figures/M7AoA6.png, id=151, 596
-.98032pt x 274.77657pt>
-File: Figures/M7AoA6.png Graphic file (type png)
+LaTeX Warning: Reference `fig:INTERNALS' on page 1 undefined on input line 99.
 
-<use Figures/M7AoA6.png>
-Package pdftex.def Info: Figures/M7AoA6.png used on input line 155.
-(pdftex.def)             Requested size: 328.82707pt x 151.35397pt.
- <Figures/Cl.png, id=152, 421.575pt x 316.18124pt>
-File: Figures/Cl.png Graphic file (type png)
+[1
 
-<use Figures/Cl.png>
-Package pdftex.def Info: Figures/Cl.png used on input line 162.
-(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- <Figures/Cd.png, id=153, 421.575pt x 316.18124pt>
-File: Figures/Cd.png Graphic file (type png)
+{C:/Users/sholt/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+! pdfTeX error (font expansion): auto expansion is only possible with scalable 
+fonts.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.100 
+      
 
-<use Figures/Cd.png>
-Package pdftex.def Info: Figures/Cd.png used on input line 168.
-(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- <Figures/LD.png, id=154, 421.575pt x 316.18124pt>
-File: Figures/LD.png Graphic file (type png)
-
-<use Figures/LD.png>
-Package pdftex.def Info: Figures/LD.png used on input line 174.
-(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
- [5 <./Figures/M7AoA6.png>] [6 <./Figures/Cl.png (PNG copy)> <./Figures/Cd.png 
-(PNG copy)>] [7 <./Figures/LD.png (PNG copy)>]
-<Figures/qlimited50kpa.png, id=189, 612.78937pt x 324.46219pt>
-File: Figures/qlimited50kpa.png Graphic file (type png)
-
-<use Figures/qlimited50kpa.png>
-Package pdftex.def Info: Figures/qlimited50kpa.png used on input line 227.
-(pdftex.def)             Requested size: 281.85587pt x 149.23955pt.
- [8 <./Figures/qlimited50kpa.png>]
-<Figures/lon-lat.png, id=198, 421.575pt x 316.18124pt>
-File: Figures/lon-lat.png Graphic file (type png)
-
-<use Figures/lon-lat.png>
-Package pdftex.def Info: Figures/lon-lat.png used on input line 243.
-(pdftex.def)             Requested size: 281.85587pt x 211.39647pt.
-Package epstopdf Info: Source file: <Figures/Traj1.eps>
-(epstopdf)                    date: 2017-11-22 07:32:16
-(epstopdf)                    size: 71720 bytes
-(epstopdf)             Output file: <Figures/Traj1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:04
-(epstopdf)                    size: 23530 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj1-eps-converted
--to.pdf Figures/Traj1.eps>
-(epstopdf)             \includegraphics on input line 250.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/Traj1-eps-converted-to.pdf, id=199, 999.735pt x 337.26pt>
-File: Figures/Traj1-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/Traj1-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj1-eps-converted-to.pdf used on input line 
-250.
-(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Package epstopdf Info: Source file: <Figures/Traj2.eps>
-(epstopdf)                    date: 2017-11-22 07:33:08
-(epstopdf)                    size: 132170 bytes
-(epstopdf)             Output file: <Figures/Traj2-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:05
-(epstopdf)                    size: 20163 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj2-eps-converted
--to.pdf Figures/Traj2.eps>
-(epstopdf)             \includegraphics on input line 256.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/Traj2-eps-converted-to.pdf, id=200, 999.735pt x 337.26pt>
-File: Figures/Traj2-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/Traj2-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj2-eps-converted-to.pdf used on input line 
-256.
-(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Package epstopdf Info: Source file: <Figures/Traj3.eps>
-(epstopdf)                    date: 2017-11-22 07:32:34
-(epstopdf)                    size: 69984 bytes
-(epstopdf)             Output file: <Figures/Traj3-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-22 07:51:05
-(epstopdf)                    size: 18657 bytes
-(epstopdf)             Command: <epstopdf --outfile=Figures/Traj3-eps-converted
--to.pdf Figures/Traj3.eps>
-(epstopdf)             \includegraphics on input line 262.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/Traj3-eps-converted-to.pdf, id=201, 999.735pt x 337.26pt>
-File: Figures/Traj3-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/Traj3-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/Traj3-eps-converted-to.pdf used on input line 
-262.
-(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9 <./Figures/lon-lat.png (PNG copy)>] [10 <./Figures/Traj1-eps-converted-to.pd
-f> <./Figures/Traj2-eps-converted-to.pdf>] [11 <./Figures/Traj3-eps-converted-t
-o.pdf>] <Figures/CdVariation.png, id=244, 999.735pt x 337.26pt>
-File: Figures/CdVariation.png Graphic file (type png)
-
-<use Figures/CdVariation.png>
-Package pdftex.def Info: Figures/CdVariation.png used on input line 311.
-(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
-
-<Figures/IspVariation.png, id=245, 999.735pt x 337.26pt>
-File: Figures/IspVariation.png Graphic file (type png)
-
-<use Figures/IspVariation.png>
-Package pdftex.def Info: Figures/IspVariation.png used on input line 318.
-(pdftex.def)             Requested size: 422.77664pt x 142.62085pt.
- [12 <./Figures/CdVariation.png (PNG copy)>]
-(main.bbl
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 9.0pt on input line 16.
- [13 <./Figures/IspVariation.png (PNG copy)>]
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 28.
-LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 28.
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 28.
- [14])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
- [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
- (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 18362C10E27AA1AB2F22F8230270146D;920.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 25211 strings out of 493323
- 460362 string characters out of 3139058
- 564020 words of memory out of 3000000
- 28153 multiletter control sequences out of 15000+200000
- 621717 words of font info for 193 fonts, out of 3000000 for 9000
+ 24504 strings out of 493312
+ 450582 string characters out of 3138898
+ 542834 words of memory out of 3000000
+ 27688 multiletter control sequences out of 15000+200000
+ 599621 words of font info for 118 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,94p,10368b,939s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Progra
-m Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fon
-ts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/
-tex-gyre/q-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtm
-b.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtmri.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/newtx/rntxmi.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/newtx/rntxmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/txfonts/rtxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtx
-r.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/t1xtt.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (15 pages, 756450 bytes).
-PDF statistics:
- 350 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 35007 words of extra memory for PDF output out of 35830 (max. 10000000)
-
+ 60i,8n,94p,10368b,748s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
