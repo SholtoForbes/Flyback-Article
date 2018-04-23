@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{33}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -28,6 +28,20 @@ Crisp, N.~H., Smith, K., and Hollingsworth, P., \enquote{{Launch and deployment
 \newblock \doi{10.1016/j.actaastro.2015.04.015},
   \urlprefix\url{http://dx.doi.org/10.1016/j.actaastro.2015.04.015}.
 
+\bibitem[{{China Spaceflight}(2017)}]{Linkspace}
+{China Spaceflight}, \enquote{{Linkspace},} , 2017.
+\newblock
+  \urlprefix\url{https://www.chinaspaceflight.com/satellite/Linkspace/Linkspace.html}.
+
+\bibitem[{Outreach(2017)}]{DARPA2017}
+Outreach, D., \enquote{{DARPA Picks Design for Next-Generation Spaceplane},} ,
+  2017.
+\newblock \urlprefix\url{https://www.darpa.mil/news-events/2017-05-24}.
+
+\bibitem[{Aerospace(2017)}]{Lynx}
+Aerospace, X., \enquote{{Lynx Sppacecraft},} , 2017.
+\newblock \urlprefix\url{https://xcor.com/launch/lynx-spacecraft/}.
+
 \bibitem[{Maddock et~al.(2017)Maddock, Toso, Ricciardi, Mogavero, Lo,
   Rengarajan, Kontis, Milne, Evans, West, and McIntyre}]{Maddock2017}
 Maddock, C., Toso, F., Ricciardi, L., Mogavero, A., Lo, K.~H., Rengarajan, S.,
@@ -47,16 +61,12 @@ Kuhn, M., M\"{u}ller, I., Petkov, I., Oving, B., van Kleef, A.~J., Verberne,
 \newblock \doi{10.2514/6.2017-2441},
   \urlprefix\url{https://arc.aiaa.org/doi/10.2514/6.2017-2441}.
 
-\bibitem[{Outreach(2017)}]{DARPA2017}
-Outreach, D., \enquote{{DARPA Picks Design for Next-Generation Spaceplane},} ,
-  2017.
-\newblock \urlprefix\url{https://www.darpa.mil/news-events/2017-05-24}.
-
-\bibitem[{Charania et~al.()Charania, Isakowitz, Matsumori, Pomerantz, Vaughn,
-  Kubiak, and Caponio}]{charania}
+\bibitem[{Charania et~al.(2016)Charania, Isakowitz, Matsumori, Pomerantz,
+  Vaughn, Kubiak, and Caponio}]{charania}
 Charania, A.~C., Isakowitz, S., Matsumori, B., Pomerantz, W., Vaughn, M.,
   Kubiak, H., and Caponio, D., \enquote{{SSC16-II-02 LauncherOne : Virgin
-  Galactic ' s Dedicated Launch Vehicle for Small Satellites},} ????, pp. 1--8.
+  Galactic ' s Dedicated Launch Vehicle for Small Satellites},} \emph{30th
+  Annual AIAA/USU Conference on Small Satellites}, Logan, UT, 2016, pp. 1--8.
 
 \bibitem[{Gilmour(2017)}]{Gilmour}
 Gilmour, A., \enquote{{ROCKET STARTUP SHOOTS FOR THE STARS WITH AUD 5 MILLION (
@@ -66,22 +76,13 @@ Gilmour, A., \enquote{{ROCKET STARTUP SHOOTS FOR THE STARS WITH AUD 5 MILLION (
 Zero2Infinity, \enquote{{Bloostar},} , 2016.
 \newblock \urlprefix\url{http://www.zero2infinity.space/bloostar/}.
 
-\bibitem[{{China Spaceflight}(2017)}]{Linkspace}
-{China Spaceflight}, \enquote{{Linkspace},} , 2017.
-\newblock
-  \urlprefix\url{https://www.chinaspaceflight.com/satellite/Linkspace/Linkspace.html}.
-
-\bibitem[{Orbit(2017)}]{Virgin}
-Orbit, V., \enquote{{LauncherOne},} , 2017.
+\bibitem[{VirginOrbit(2017)}]{Virgin}
+VirginOrbit, \enquote{{LauncherOne},} , 2017.
 \newblock \urlprefix\url{https://virginorbit.com/}.
 
 \bibitem[{Firefly(2017)}]{Firefly}
 Firefly, \enquote{{Firefly},} , 2017.
 \newblock \urlprefix\url{http://www.fireflyspace.com/}.
-
-\bibitem[{Aerospace(2017)}]{Lynx}
-Aerospace, X., \enquote{{Lynx Sppacecraft},} , 2017.
-\newblock \urlprefix\url{https://xcor.com/launch/lynx-spacecraft/}.
 
 \bibitem[{{Rocket Lab}(2016)}]{Electron}
 {Rocket Lab}, \enquote{{Electron},} , 2016.
@@ -93,6 +94,13 @@ Preller, D., and Smart, M.~K., \enquote{{Scramjets for Reusable Launch of Small
   2017, pp. 1--13.
 \newblock \doi{10.2514/6.2015-3586},
   \urlprefix\url{http://arc.aiaa.org/doi/10.2514/6.2015-3586}.
+
+\bibitem[{Forbes-Spyratos et~al.(2018)Forbes-Spyratos, Kearney, Smart, and
+  Jahn}]{ForbesSpyratos2018}
+Forbes-Spyratos, S.~O., Kearney, M.~P., Smart, M.~K., and Jahn, I.~H.,
+  \enquote{{Trajectory Design of a Rocket-Scramjet-Rocket Multi-Stage Launch
+  System},} \emph{Journal of Spacecraft and Rockets - Under Consideration},
+  Vol. TBD, 2018.
 
 \bibitem[{Hellman(2005)}]{Hellman}
 Hellman, B.~M., \enquote{{Comparison of Return to Launch Site Options for a
@@ -154,10 +162,28 @@ Aftosmis, M.~J., Nemec, M., and Cliff, S.~E., \enquote{{Adjoint-based low-boom
 \newblock \doi{doi:10.2514/6.2011-3500},
   \urlprefix\url{http://www.scopus.com/inward/record.url?eid=2-s2.0-84872373928\&partnerID=tZOtx3y1}.
 
+\bibitem[{NASA(1976)}]{Administration1976}
+NASA, \emph{{U.S. Standard Atmosphere, 1976}}, U.S. Government Printing Office,
+  Washington, D.C., 1976.
+\newblock
+  \urlprefix\url{http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19770009539.pdf}.
+
 \bibitem[{Patterson et~al.(2015)Patterson, Ph, Rao, and Ph}]{Patterson2015}
 Patterson, M.~a., Ph, D., Rao, A.~V., and Ph, D., \enquote{{GPOPS-II manul: A
   General-Purpose MATLAB Software for Solving Multiple-Phase Optimal Control
   Problems Version 2 . 1},} Tech. Rep. October, 2015.
+
+\bibitem[{Fahroo and Ross(2000)}]{Fahroo2000}
+Fahroo, F., and Ross, I., \enquote{{Direct trajectory optimization by a
+  Chebyshev pseudospectral method},} \emph{Proceedings of the 2000 American
+  Control Conference.}, Vol.~6, Chicago, IL, 2000, pp. 3860--3864.
+\newblock \doi{10.1109/ACC.2000.876945}.
+
+\bibitem[{Ross and Fahroo(2004)}]{Ross2004}
+Ross, I.~M., and Fahroo, F., \enquote{{Pseudospectral Knotting Methods for
+  Solving Nonsmooth Optimal Control Problems},} \emph{Journal of Guidance,
+  Control, and Dynamics}, Vol.~27, No.~3, 2004, pp. 397--405.
+\newblock \doi{10.2514/1.3426}.
 
 \bibitem[{Josselyn and Ross(2002)}]{Josselyn2002a}
 Josselyn, S., and Ross, I.~M., \enquote{{Rapid Verification Method for the
@@ -174,5 +200,10 @@ Kanda, T., and Hiraiwa, T., \enquote{{Evaluation of Effectiveness of Periodic
   Flight by a Hypersonic Vehicle},} \emph{Journal of Aircraft}, Vol.~44, No.~6,
   2007, pp. 2076--2077.
 \newblock \doi{10.2514/1.31143}.
+
+\bibitem[{Ryba(2017)}]{Ryba2017}
+Ryba, J., \enquote{{Space Shuttle},} , 2017.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/mission\_pages/shuttle/launch/landing101.html}.
 
 \end{thebibliography}
